@@ -1,0 +1,24 @@
+.wrapper {
+  display: flex;
+  justify-content: center;
+}
+.button {
+  margin-top: 20px;
+  margin-left: 20px;
+  padding: 10px 30px;
+  font-size: 20px;
+  color: #fff;
+  border: 1px solid black;
+  border-radius: 3px;
+}
+.good {
+  background-color: green;
+}
+
+.neutral {
+  background-color: blue;
+}
+
+.bad {
+  background-color: red;
+}
